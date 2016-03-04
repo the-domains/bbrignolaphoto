@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1272401
+  lightness: 0.3494624
+  brandStrength: 0.4623656
+  brandColors:
+    - '#FFFFFF'
+    - '#2E384A'
+    - '#6D706C'
+    - '#BDBEA2'
+    - '#E0915C'
+  rhythmicContrast: 0.546595
+typography_spectrum: 0.8978494
+name: BBrignolaphoto
