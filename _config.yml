@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8978494
 color:
   saturation: 0.1272401
-  lightness: 0.3494624
   brandStrength: 0.4623656
+  rhythmicContrast: 0.546595
   brandColors:
     - '#FFFFFF'
     - '#2E384A'
     - '#6D706C'
     - '#BDBEA2'
     - '#E0915C'
-  rhythmicContrast: 0.546595
-typography_spectrum: 0.8978494
+  lightness: 0.3494624
+layout_spectrum: 0.9802867
 name: BBrignolaphoto
