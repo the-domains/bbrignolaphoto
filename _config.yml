@@ -1,16 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.8978494
 color:
   saturation: 0.1272401
   brandStrength: 0.4623656
@@ -22,5 +9,18 @@ color:
     - '#BDBEA2'
     - '#E0915C'
   lightness: 0.3494624
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.9802867
+typography_spectrum: 0.8978494
 name: BBrignolaphoto
